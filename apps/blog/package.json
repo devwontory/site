@@ -15,16 +15,16 @@
     "start": "next start -p 3001"
   },
   "dependencies": {
-    "@expressive-code/plugin-collapsible-sections": "^0.40.2",
-    "@expressive-code/plugin-line-numbers": "^0.40.2",
+    "@expressive-code/plugin-collapsible-sections": "^0.41.2",
+    "@expressive-code/plugin-line-numbers": "^0.41.2",
     "@giscus/react": "^3.1.0",
     "@package/ui": "workspace:*",
     "@package/utility": "workspace:*",
-    "@tanstack/react-virtual": "^3.13.5",
+    "@tanstack/react-virtual": "^3.13.10",
     "@vercel/analytics": "catalog:vercel",
     "@vercel/speed-insights": "catalog:vercel",
     "date-fns": "catalog:util",
-    "jotai": "^2.12.2",
+    "jotai": "^2.12.5",
     "ky": "catalog:data-fetch",
     "motion": "catalog:style",
     "next": "catalog:core",
@@ -32,9 +32,9 @@
     "react": "catalog:core",
     "react-dom": "catalog:core",
     "react-use-measure": "^2.1.7",
-    "rehype-expressive-code": "^0.40.2",
+    "rehype-expressive-code": "^0.41.2",
     "rehype-slug": "^6.0.0",
-    "satori": "^0.12.2"
+    "satori": "^0.15.2"
   },
   "devDependencies": {
     "@config/typescript": "workspace:*",
@@ -46,6 +46,6 @@
     "@types/react-dom": "catalog:core",
     "tailwindcss": "catalog:style",
     "typescript": "catalog:core",
-    "velite": "^0.2.2"
+    "velite": "^0.2.4"
   }
 }
