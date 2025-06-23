@@ -11,7 +11,7 @@ function GiscusComment() {
 
   return (
     <Giscus
-      repo="wontory/wontory.dev-comments"
+      repo="devwontory/wontory.dev-comments"
       repoId="R_kgDOK8hnMw"
       category="General"
       categoryId="DIC_kwDOK8hnM84Cb64A"
